@@ -1,0 +1,14 @@
+.text{
+    width: 50rem;
+    height:25rem;
+    padding-left: 35rem;
+    padding-top: 10rem;
+}
+.card1{
+    padding-left: 5rem;
+    height:15rem;
+    width: 40rem;
+}
+.card1-title{
+    padding-top: 3rem;
+}
